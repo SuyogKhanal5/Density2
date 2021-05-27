@@ -5,7 +5,7 @@ import requests
 HEADERS = {"X-API-Key":'649ea8eecf5543c0a4c29bd2b175f5ba'}
 
 client = commands.Bot(command_prefix = '$')
-token = 'ODIwNDAzNDMxODU5ODE0NDMw.YE0qPA.K2LVr3Ed7wP4cyoQGTr_MVvcD3Q'
+token = 'TOKEN'
 
 @client.event
 async def on_ready():
